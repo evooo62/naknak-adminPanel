@@ -1,0 +1,27 @@
+
+
+.homeContainer{
+    font: normal normal normal 18px/26px TeX Gyre Adventor;
+    letter-spacing: 0.18px;
+    color: #515151;
+    opacity: 1
+}
+
+#viewButton:hover{
+    background-color: #EE7533;
+    color: white;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.table {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 2px 2px 5px #00000029;
+    border: 1px solid #70707040;
+    border-radius: 10px;
+    opacity: 1;
+
+}
+

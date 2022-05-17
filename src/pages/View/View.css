@@ -1,0 +1,9 @@
+.cardHeader {
+    text-align: left;
+    background-color: white;
+    font-size: 20px;
+    color: #515151;
+    font: normal normal bold 20px/31px TeX Gyre Adventor;
+    text-decoration: none;
+}
+
